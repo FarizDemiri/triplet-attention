@@ -154,14 +154,13 @@ triplet-attention/
 
 If you use this work, please cite:
 
-```bibtex
 @software{triplet_attention_2025,
   title={Triplet Attention: Experimental Memory Persistence in LLMs},
   author={Fariz Demiri},
   year={2025},
-  url={https://github.com/farizdemiri/triplet-attention}
+  url={https://github.com/farizdemiri/triplet-attention},
+  note={Mechanistic validation successful; behavioral hypothesis inconclusive}
 }
-```
 
 ## License
 
