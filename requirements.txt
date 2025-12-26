@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.30.0
+accelerate
+bitsandbytes
+peft
+datasets
+jupyter
+gradio
+matplotlib
+seaborn
+pandas
+numpy
+sentence-transformers
